@@ -1,0 +1,44 @@
+body {
+  background-image: url("rose-elena-501361-unsplash.jpg");
+  height: 100%;
+  background-position: 1;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+}
+
+input{
+  padding-top: 30px;
+  width: 800px;
+  height: 80px;
+  font-size: 40px;
+  border: 0;
+  text-align: center;
+  text-decoration-color: black;
+  background: rgba(204, 204, 204, 0.5);
+}
+
+.checkList{
+  width: 50%;
+  padding: 30px;
+  margin: auto;
+}
+
+#list {
+  text-align: left;
+  font-size: 40px;
+  list-style: none;
+  margin: 0;
+  width: 800px;
+  background: rgba(204, 204, 204, 0.5);
+}
+
+ul:hover {
+  text-decoration: line-through;
+}
+#goals{
+  text-align: center;
+  width: 50%;
+  padding: 30px;
+  margin: auto;
+}
